@@ -1,0 +1,14 @@
+
+@media (min-width: 2560px) {
+    p.caption {
+        width: 80%;
+        /* color: purple; */
+        }
+  }
+
+@media (min-width: 1700px) and (max-width: 2560px) {
+    p.caption {
+        width: 80%;
+        /* color: red; */
+        }
+}
