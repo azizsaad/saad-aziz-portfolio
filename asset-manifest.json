@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/saad-aziz-portfolio/static/css/main.80d0fa5d.chunk.css",
+    "main.js": "/saad-aziz-portfolio/static/js/main.0d000ba1.chunk.js",
+    "main.js.map": "/saad-aziz-portfolio/static/js/main.0d000ba1.chunk.js.map",
+    "runtime-main.js": "/saad-aziz-portfolio/static/js/runtime-main.9e02c21d.js",
+    "runtime-main.js.map": "/saad-aziz-portfolio/static/js/runtime-main.9e02c21d.js.map",
+    "static/js/2.e78e5e07.chunk.js": "/saad-aziz-portfolio/static/js/2.e78e5e07.chunk.js",
+    "static/js/2.e78e5e07.chunk.js.map": "/saad-aziz-portfolio/static/js/2.e78e5e07.chunk.js.map",
+    "index.html": "/saad-aziz-portfolio/index.html",
+    "precache-manifest.42e62980245b91fe70e5204cc9cb22b8.js": "/saad-aziz-portfolio/precache-manifest.42e62980245b91fe70e5204cc9cb22b8.js",
+    "service-worker.js": "/saad-aziz-portfolio/service-worker.js",
+    "static/css/main.80d0fa5d.chunk.css.map": "/saad-aziz-portfolio/static/css/main.80d0fa5d.chunk.css.map",
+    "static/js/2.e78e5e07.chunk.js.LICENSE.txt": "/saad-aziz-portfolio/static/js/2.e78e5e07.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/saad-aziz-portfolio/static/media/image.011c1ca1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e02c21d.js",
+    "static/js/2.e78e5e07.chunk.js",
+    "static/css/main.80d0fa5d.chunk.css",
+    "static/js/main.0d000ba1.chunk.js"
+  ]
+}
