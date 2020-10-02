@@ -6,7 +6,7 @@ export default function Hometab() {
         <div>
 
         <p style = {HometabStyle}> <Link to = "/" style = {homelinkStyle} onMouseOver = {mouseOn} onMouseLeave = {mouseOff}>
-            | Home
+            | Projects & Experiences
         </Link> </p> 
 
         </div>

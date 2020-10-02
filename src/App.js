@@ -3,7 +3,6 @@ import './App.css';
 import { BrowserRouter as Router,Route } from 'react-router-dom';
 import disableScroll from 'disable-scroll';
  
-
 import Title from './components/Title';
 import Image from './components/Image';
 import Caption from './components/Caption';
@@ -87,10 +86,13 @@ class App extends React.Component {
                 <Route path = "/curriculum-vitae" render = {props => (
                   <React.Fragment>
                       <Col style = {colStyle2} > 
+
                       <Container style = {rhs_contStyle1} >
                       <Cvpage/> 
                       </Container>
+                      
                       </Col> 
+
                   </React.Fragment>
                 )}/>
 
@@ -208,7 +210,7 @@ const contStyle3 = {
   position: 'absolute',
 
   width: '40vw',
-  paddingBottom: '16vw',
+  paddingBottom: '11vw',
   
   // border: '1px solid red',
   // backgroundColor: 'rgba(225,246,103,0.4)',

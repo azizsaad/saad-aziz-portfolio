@@ -5,8 +5,8 @@ export default function Caption() {
     return (
         <div style = {captionStyle} >
 
-            <p className = "caption" > I am a front end developer in London. I mostly write using technologies such as React, Bootstrap and Node. I use my design
-                to make cool CSS.
+            <p className = "caption" > I'm a Software Developer in London. I mostly write in Python, ReactJS, Bootstrap and Node.
+            I use CSS and SaSS to make cool interactive UI's. Let's connect on Linkedin!
             </p>
 
         </div>
